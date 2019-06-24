@@ -1,0 +1,23 @@
+h5{
+background-color:#3a5795;color:#fff;border-top-color:#9fcded;border-top-style:solid;border-top-width:1px;font-size:100%;font-weight:700;margin-bottom:.3em;margin-top:-.65em;padding-bottom:.1em;padding-left:.6em;padding-right:.6em;padding-top:.1em;text-align:center
+}
+
+.mblock1{
+margin:8px 0 2px;padding:0;background-color:#fff;border:2px solid #50a7e6;text-align:left;border-radius:0 0 0 0
+}
+
+h2{
+background-color:#9fcded;border-top-color:#1e3c84;border-top-style:solid;border-top-width:1px;font-size:100%;font-weight:700;margin-bottom:.3em;margin-top:-.65em;padding-bottom:.1em;padding-left:.6em;padding-right:.6em;padding-top:.1em;text-align:center
+}
+
+body{
+background:#ece9e6;background:-webkit-linear-gradient(to left,#ECE9E6,#FFFFFF);background:linear-gradient(to left,#ECE9E6,#FFFFFF);font:normal normal 400 16px/normal Arial;justify-content:flex-start;order:0;resize:none
+}
+
+input[type=submit]{
+margin:3px 1px 5px 3px;padding:1px 5px;display:inline-block;cursor:default;color:#fafaff;text-shadow:1px 1px 1px #8992a3;background:#786df2;border:none;border-radius:3px;box-shadow:0 0 0 0 #7183a6
+}
+
+h3{
+background-color:#e8eaf7;border-top-color:#e2c822;border-top-style:solid;border-top-width:1px;font-size:100%;font-weight:700;margin-bottom:.3em;margin-top:-.65em;padding-bottom:.1em;padding-left:.6em;padding-right:.6em;padding-top:.1em;text-align:center
+}
