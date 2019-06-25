@@ -148,6 +148,11 @@ if($x==$y){
 
 echo'<br>'.'<br>';
 
+$sql="select gpoint from users where username='$uname' ";
+
+$row=mysqli_query($conn, $sql);
+
+$result=mysqli_fetch_assoc($row);
 
 echo "<i>"."Your current game point is "."<font size='5' color='red'>"."<b>"."</i>".$result['gpoint']."</font>"."</b>"."<br>"."<br>";
 
