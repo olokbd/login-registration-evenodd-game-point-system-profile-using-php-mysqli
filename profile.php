@@ -74,7 +74,7 @@ elseif($action=='uprofile'){
 			
 		}
 		
-	$id=$_GET['id'];
+	$id=mysqli_real_escape_string($conn, $_GET['id']);
 	
     $sql="select * from users where id='$id' ";
     
